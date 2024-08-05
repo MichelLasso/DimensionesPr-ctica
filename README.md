@@ -10,10 +10,10 @@ En este repositorio encontrarás dos archivos que contienen un ejercicio prácti
 |practica_dimensiones| 1 Trabajo|
 
 ## Explicación
-
-En el primer archivo **NombresEdadesDeUnGrupo** Es un algoritmo para registrar los nombres y edades de uno o varios grupos.
-
-En el segundo archivo **practica_dimensiones** Es un trabajo hecho en clase para explicar la funcionalidad de las dimensiones de una manera fácil y sencilla.
+|Función del Algoritmo| NOmbre del archivo|
+|--|--|
+|En el primer archivo es un algoritmo para registrar los nombres y edades de uno o varios grupos.| *NombresEdadesDeUnGrupo*|
+|En el segundo archivo es un trabajo hecho en clase para explicar la funcionalidad de las dimensiones de una manera fácil y sencilla.|*practica_dimensiones*|
 
 ### Estructura
 
